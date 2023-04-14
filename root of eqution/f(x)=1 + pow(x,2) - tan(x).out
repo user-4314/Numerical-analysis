@@ -1,0 +1,461 @@
+root is between -12.000000 and -11.000000
+Using Bisection Method:
+root is between -11.500000 and -11.000000
+root is between -11.250000 and -11.000000
+root is between -11.125000 and -11.000000
+root is between -11.062500 and -11.000000
+root is between -11.031250 and -11.000000
+root is between -11.015625 and -11.000000
+root is between -11.007812 and -11.000000
+root is between -11.003906 and -11.000000
+root is between -11.003906 and -11.001953
+root is between -11.003906 and -11.002930
+root is between -11.003906 and -11.003418
+root is between -11.003906 and -11.003662
+root is between -11.003784 and -11.003662
+root is between -11.003784 and -11.003723
+root is between -11.003784 and -11.003754
+root is between -11.003769 and -11.003754
+root is between -11.003769 and -11.003761
+root is between -11.003769 and -11.003765
+root is between -11.003767 and -11.003765
+root is  -11.003766
+
+Using False Position:
+root is between -11.418625 and -11.000000
+root is between -11.186674 and -11.000000
+root is between -11.086273 and -11.000000
+root is between -11.041355 and -11.000000
+root is between -11.020966 and -11.000000
+root is between -11.011653 and -11.000000
+root is between -11.007385 and -11.000000
+root is between -11.005427 and -11.000000
+root is between -11.004529 and -11.000000
+root is between -11.004116 and -11.000000
+root is between -11.003926 and -11.000000
+root is between -11.003839 and -11.000000
+root is between -11.003799 and -11.000000
+root is between -11.003781 and -11.000000
+root is between -11.003772 and -11.000000
+root is between -11.003769 and -11.000000
+root is between -11.003767 and -11.000000
+root is between -11.003766 and -11.000000
+root is  -11.003766
+
+Using Modify False Position:
+root is between -11.418625 and -11.000000
+root is between -11.120119 and -11.000000
+root is between -11.021882 and -11.000000
+root is between -11.021882 and -11.002917
+root is between -11.007669 and -11.002917
+root is between -11.007669 and -11.003638
+root is between -11.003997 and -11.003638
+root is between -11.003997 and -11.003718
+root is between -11.003801 and -11.003718
+root is between -11.003801 and -11.003751
+root is between -11.003773 and -11.003751
+root is between -11.003773 and -11.003762
+root is between -11.003767 and -11.003762
+root is between -11.003767 and -11.003764
+root is between -11.003766 and -11.003764
+root is between -11.003766 and -11.003765
+root is  -11.003765
+
+root is between -11.000000 and -10.000000
+Using Bisection Method:
+root is between -11.000000 and -10.500000
+root is between -11.000000 and -10.750000
+root is between -11.000000 and -10.875000
+root is between -11.000000 and -10.937500
+root is between -11.000000 and -10.968750
+root is between -11.000000 and -10.984375
+root is between -11.000000 and -10.992188
+root is between -10.996094 and -10.992188
+root is between -10.996094 and -10.994141
+root is between -10.996094 and -10.995117
+root is between -10.995605 and -10.995117
+root is between -10.995605 and -10.995361
+root is between -10.995605 and -10.995483
+root is between -10.995605 and -10.995544
+root is between -10.995575 and -10.995544
+root is between -10.995575 and -10.995560
+root is between -10.995575 and -10.995567
+root is between -10.995575 and -10.995571
+root is between -10.995575 and -10.995573
+root is  -10.995574
+
+Using False Position:
+root is between -11.000000 and -10.494401
+root is between -11.000000 and -10.757698
+root is between -11.000000 and -10.887957
+root is between -11.000000 and -10.949961
+root is between -11.000000 and -10.978920
+root is between -11.000000 and -10.992326
+root is between -10.998505 and -10.992326
+root is between -10.996417 and -10.992326
+root is between -10.996417 and -10.993502
+root is between -10.996417 and -10.994558
+root is between -10.996417 and -10.995505
+root is between -10.996355 and -10.995505
+root is between -10.996292 and -10.995505
+root is between -10.996228 and -10.995505
+root is between -10.996164 and -10.995505
+root is between -10.996100 and -10.995505
+root is between -10.996034 and -10.995505
+root is between -10.995969 and -10.995505
+root is between -10.995903 and -10.995505
+root is between -10.995836 and -10.995505
+root is between -10.995768 and -10.995505
+root is between -10.995701 and -10.995505
+root is between -10.995632 and -10.995505
+root is between -10.995632 and -10.995563
+root is between -10.995621 and -10.995563
+root is between -10.995610 and -10.995563
+root is between -10.995598 and -10.995563
+root is between -10.995587 and -10.995563
+root is between -10.995576 and -10.995563
+root is between -10.995576 and -10.995564
+root is between -10.995576 and -10.995566
+root is between -10.995576 and -10.995567
+root is between -10.995576 and -10.995568
+root is between -10.995576 and -10.995570
+root is between -10.995576 and -10.995571
+root is between -10.995576 and -10.995572
+root is between -10.995576 and -10.995574
+root is between -10.995575 and -10.995574
+root is between -10.995575 and -10.995574
+root is  -10.995575
+
+Using Modify False Position:
+root is between -11.000000 and -10.494401
+root is between -11.000000 and -10.840670
+root is between -11.000000 and -10.972563
+root is between -10.997995 and -10.972563
+root is between -10.997995 and -10.978175
+root is between -10.997995 and -10.989106
+root is between -10.996142 and -10.989106
+root is between -10.996142 and -10.989654
+root is between -10.996142 and -10.991353
+root is between -10.996142 and -10.993589
+root is between -10.996142 and -10.995513
+root is between -10.996139 and -10.995513
+root is between -10.996034 and -10.995513
+root is between -10.995860 and -10.995513
+root is between -10.995644 and -10.995513
+root is between -10.995644 and -10.995522
+root is between -10.995611 and -10.995522
+root is between -10.995611 and -10.995546
+root is between -10.995593 and -10.995546
+root is between -10.995593 and -10.995557
+root is between -10.995582 and -10.995557
+root is between -10.995582 and -10.995562
+root is between -10.995582 and -10.995574
+root is between -10.995582 and -10.995574
+root is between -10.995581 and -10.995574
+root is between -10.995579 and -10.995574
+root is between -10.995576 and -10.995574
+root is between -10.995576 and -10.995574
+root is between -10.995576 and -10.995574
+root is between -10.995575 and -10.995574
+root is  -10.995575
+
+root is between 0.500000 and 1.500000
+Using Bisection Method:
+root is between 1.000000 and 1.500000
+root is between 1.000000 and 1.250000
+root is between 1.125000 and 1.250000
+root is between 1.125000 and 1.187500
+root is between 1.156250 and 1.187500
+root is between 1.171875 and 1.187500
+root is between 1.171875 and 1.179688
+root is between 1.171875 and 1.175781
+root is between 1.171875 and 1.173828
+root is between 1.171875 and 1.172852
+root is between 1.171875 and 1.172363
+root is between 1.171875 and 1.172119
+root is between 1.171997 and 1.172119
+root is between 1.172058 and 1.172119
+root is between 1.172089 and 1.172119
+root is between 1.172089 and 1.172104
+root is between 1.172089 and 1.172096
+root is between 1.172092 and 1.172096
+root is between 1.172092 and 1.172094
+root is  1.172093
+
+Using False Position:
+root is between 0.560899 and 1.500000
+root is between 0.616768 and 1.500000
+root is between 0.668228 and 1.500000
+root is between 0.715724 and 1.500000
+root is between 0.759579 and 1.500000
+root is between 0.800043 and 1.500000
+root is between 0.837316 and 1.500000
+root is between 0.871569 and 1.500000
+root is between 0.902959 and 1.500000
+root is between 0.931635 and 1.500000
+root is between 0.957744 and 1.500000
+root is between 0.981435 and 1.500000
+root is between 1.002859 and 1.500000
+root is between 1.022167 and 1.500000
+root is between 1.039513 and 1.500000
+root is between 1.055048 and 1.500000
+root is between 1.068922 and 1.500000
+root is between 1.081278 and 1.500000
+root is between 1.092257 and 1.500000
+root is between 1.101989 and 1.500000
+root is between 1.110598 and 1.500000
+root is between 1.118200 and 1.500000
+root is between 1.124902 and 1.500000
+root is between 1.130800 and 1.500000
+root is between 1.135985 and 1.500000
+root is between 1.140536 and 1.500000
+root is between 1.144529 and 1.500000
+root is between 1.148027 and 1.500000
+root is between 1.151089 and 1.500000
+root is between 1.153768 and 1.500000
+root is between 1.156110 and 1.500000
+root is between 1.158157 and 1.500000
+root is between 1.159944 and 1.500000
+root is between 1.161505 and 1.500000
+root is between 1.162866 and 1.500000
+root is between 1.164054 and 1.500000
+root is between 1.165090 and 1.500000
+root is between 1.165993 and 1.500000
+root is between 1.166780 and 1.500000
+root is between 1.167466 and 1.500000
+root is between 1.168064 and 1.500000
+root is between 1.168585 and 1.500000
+root is between 1.169039 and 1.500000
+root is between 1.169434 and 1.500000
+root is between 1.169778 and 1.500000
+root is between 1.170078 and 1.500000
+root is between 1.170339 and 1.500000
+root is between 1.170566 and 1.500000
+root is between 1.170764 and 1.500000
+root is between 1.170936 and 1.500000
+root is between 1.171086 and 1.500000
+root is between 1.171216 and 1.500000
+root is between 1.171330 and 1.500000
+root is between 1.171429 and 1.500000
+root is between 1.171515 and 1.500000
+root is between 1.171590 and 1.500000
+root is between 1.171655 and 1.500000
+root is between 1.171712 and 1.500000
+root is between 1.171762 and 1.500000
+root is between 1.171805 and 1.500000
+root is between 1.171842 and 1.500000
+root is between 1.171875 and 1.500000
+root is between 1.171903 and 1.500000
+root is between 1.171928 and 1.500000
+root is between 1.171949 and 1.500000
+root is between 1.171968 and 1.500000
+root is between 1.171984 and 1.500000
+root is between 1.171998 and 1.500000
+root is between 1.172011 and 1.500000
+root is between 1.172022 and 1.500000
+root is between 1.172031 and 1.500000
+root is between 1.172039 and 1.500000
+root is between 1.172046 and 1.500000
+root is between 1.172052 and 1.500000
+root is between 1.172058 and 1.500000
+root is between 1.172062 and 1.500000
+root is between 1.172066 and 1.500000
+root is between 1.172070 and 1.500000
+root is between 1.172073 and 1.500000
+root is between 1.172076 and 1.500000
+root is between 1.172078 and 1.500000
+root is between 1.172080 and 1.500000
+root is between 1.172082 and 1.500000
+root is between 1.172083 and 1.500000
+root is between 1.172085 and 1.500000
+root is between 1.172086 and 1.500000
+root is between 1.172087 and 1.500000
+root is between 1.172088 and 1.500000
+root is  1.172088
+
+Using Modify False Position:
+root is between 0.560899 and 1.500000
+root is between 0.666362 and 1.500000
+root is between 0.829029 and 1.500000
+root is between 1.033847 and 1.500000
+root is between 1.033847 and 1.203756
+root is between 1.129218 and 1.203756
+root is between 1.129218 and 1.179718
+root is between 1.164763 and 1.179718
+root is between 1.164763 and 1.174427
+root is between 1.170592 and 1.174427
+root is between 1.170592 and 1.172738
+root is between 1.171743 and 1.172738
+root is between 1.171743 and 1.172261
+root is between 1.172008 and 1.172261
+root is between 1.172008 and 1.172136
+root is between 1.172072 and 1.172136
+root is between 1.172072 and 1.172104
+root is between 1.172088 and 1.172104
+root is between 1.172088 and 1.172096
+root is between 1.172092 and 1.172096
+root is between 1.172092 and 1.172094
+root is between 1.172093 and 1.172094
+root is  1.172093
+
+root is between 1.500000 and 2.500000
+Using Bisection Method:
+root is between 1.500000 and 2.000000
+root is between 1.500000 and 1.750000
+root is between 1.500000 and 1.625000
+root is between 1.562500 and 1.625000
+root is between 1.562500 and 1.593750
+root is between 1.562500 and 1.578125
+root is between 1.570312 and 1.578125
+root is between 1.570312 and 1.574219
+root is between 1.570312 and 1.572266
+root is between 1.570312 and 1.571289
+root is between 1.570312 and 1.570801
+root is between 1.570557 and 1.570801
+root is between 1.570679 and 1.570801
+root is between 1.570740 and 1.570801
+root is between 1.570770 and 1.570801
+root is between 1.570786 and 1.570801
+root is between 1.570793 and 1.570801
+root is between 1.570793 and 1.570797
+root is between 1.570795 and 1.570797
+root is  1.570796
+
+Using False Position:
+root is between 1.500000 and 2.075720
+root is between 1.500000 and 1.847670
+root is between 1.500000 and 1.700844
+root is between 1.500000 and 1.597338
+root is between 1.520285 and 1.597338
+root is between 1.542283 and 1.597338
+root is between 1.566210 and 1.597338
+root is between 1.566210 and 1.592322
+root is between 1.566210 and 1.587389
+root is between 1.566210 and 1.582536
+root is between 1.566210 and 1.577762
+root is between 1.566210 and 1.573065
+root is between 1.568442 and 1.573065
+root is between 1.570692 and 1.573065
+root is between 1.570692 and 1.572960
+root is between 1.570692 and 1.572855
+root is between 1.570692 and 1.572750
+root is between 1.570692 and 1.572646
+root is between 1.570692 and 1.572541
+root is between 1.570692 and 1.572436
+root is between 1.570692 and 1.572332
+root is between 1.570692 and 1.572227
+root is between 1.570692 and 1.572122
+root is between 1.570692 and 1.572018
+root is between 1.570692 and 1.571913
+root is between 1.570692 and 1.571809
+root is between 1.570692 and 1.571705
+root is between 1.570692 and 1.571600
+root is between 1.570692 and 1.571496
+root is between 1.570692 and 1.571392
+root is between 1.570692 and 1.571287
+root is between 1.570692 and 1.571183
+root is between 1.570692 and 1.571079
+root is between 1.570692 and 1.570975
+root is between 1.570692 and 1.570871
+root is between 1.570767 and 1.570871
+root is between 1.570767 and 1.570841
+root is between 1.570767 and 1.570811
+root is between 1.570782 and 1.570811
+root is between 1.570782 and 1.570797
+root is between 1.570782 and 1.570797
+root is between 1.570782 and 1.570797
+root is  1.570782
+
+Using Modify False Position:
+root is between 1.500000 and 2.075720
+root is between 1.500000 and 1.749027
+root is between 1.554822 and 1.749027
+root is between 1.554822 and 1.734442
+root is between 1.554822 and 1.688851
+root is between 1.554822 and 1.628050
+root is between 1.554822 and 1.573831
+root is between 1.555030 and 1.573831
+root is between 1.560011 and 1.573831
+root is between 1.567163 and 1.573831
+root is between 1.567163 and 1.572946
+root is between 1.568463 and 1.572946
+root is between 1.568463 and 1.571352
+root is between 1.568768 and 1.571352
+root is between 1.569678 and 1.571352
+root is between 1.570790 and 1.571352
+root is between 1.570790 and 1.571352
+root is between 1.570790 and 1.571339
+root is between 1.570790 and 1.571314
+root is between 1.570790 and 1.571266
+root is between 1.570790 and 1.571180
+root is between 1.570790 and 1.571043
+root is between 1.570790 and 1.570884
+root is between 1.570790 and 1.570799
+root is between 1.570790 and 1.570799
+root is between 1.570794 and 1.570799
+root is between 1.570794 and 1.570798
+root is between 1.570795 and 1.570798
+root is between 1.570795 and 1.570797
+root is between 1.570796 and 1.570797
+root is between 1.570796 and 1.570797
+root is between 1.570796 and 1.570797
+root is  1.570796
+
+Using Newton Method and guess x is -15:
+root is approaching at -7.904990
+root is approaching at -7.795371
+root is approaching at -7.538682
+root is approaching at -5.148330
+root is approaching at -3.553948
+root is approaching at -1.858856
+root is approaching at -1.791784
+root is approaching at -1.801652
+root is approaching at -1.802028
+root is  -1.802028
+
+Using Newton Method and guess x is 4:
+root is approaching at 1.200756
+root is approaching at 1.174802
+root is approaching at 1.172119
+root is approaching at 1.172094
+root is  1.172094
+
+Using Secant Method and guess x is between -20 and -15:
+root is approaching at -8.679038
+root is approaching at -5.496141
+root is approaching at -3.369109
+root is approaching at -1.850357
+root is approaching at -1.727670
+root is approaching at -1.815156
+root is approaching at -1.805670
+root is approaching at -1.801862
+root is approaching at -1.802031
+root is approaching at -1.802028
+root is approaching at -1.802028
+root is  -1.802028
+
+Using Secant Method and guess x is between 1 and 8:
+root is approaching at 0.956583
+root is approaching at 0.907485
+root is approaching at 1.478207
+root is approaching at 0.945669
+root is approaching at 0.979137
+root is approaching at 1.392444
+root is approaching at 1.042300
+root is approaching at 1.086184
+root is approaching at 1.218009
+root is approaching at 1.158262
+root is approaching at 1.169966
+root is approaching at 1.172196
+root is approaching at 1.172093
+root is approaching at 1.172094
+root is  1.172094
+
+Using Fixed Point Method and guess x is -2:
+-2.000000 1.088595
+root is approaching at 0.954223
+1.088595 0.954223
+root is approaching at 0.641045
+0.954223 0.641045
+root is approaching at nan
+root is  nan
