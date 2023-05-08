@@ -1,14 +1,14 @@
 #include <iostream>
 #include <cstdio>
 using namespace std;
-const int N = 3;
-double X[N] = {-2,0,2},Y[N] = {9,-1,-3};//線上的點
-double KnownCoefficient[N] = {1,-3,-1};//方程式的係數
+const int N = 6;
+double X[N] = {-2,-1,0,1,2,3},Y[N] = {-7,-1,-1,-1,5,23};//線上的點
+double KnownCoefficient[4] = {1,0,-1,-1};//方程式的係數
 double DDT[N][N] = {0},FDT[N][N] = {0};
 
 void Interpolation(double x){
     double P = KnownCoefficient[0];
-    for(int i=1;i<N;i++)
+    for(int i=1;i<4;i++)
         P = P * x + KnownCoefficient[i];
 
     printf("bring x = %.2f by Interpolation then y = %f\n",x,P);
@@ -49,8 +49,7 @@ void DivideDifference(double x){
     printf("bring x = %.2f by Divide Difference y = %f\n",x,y);
 }
 
-
-void DifferenceTable(double x){
+void ForwardDifferenceTable(double x){
     for(int i=0;i<N;i++)
         FDT[0][i] = Y[i];
     for(int i=1;i<N;i++){
@@ -66,16 +65,45 @@ void DifferenceTable(double x){
             P = P * (s-j) / (j+1);
         y = y + P*FDT[i][0];
     }
-    printf("bring x = %.2f by Front Difference Table then y = %f\n",x,y);
+    printf("bring x = %.2f by Forward Difference Table then y = %f\n",x,y);
+}
+
+void BackwardDifferenceTable(double x){
+    double s = (x-X[N-1]) / abs( (X[1]-X[0]) );
+    double y = FDT[0][N-1];
+    for(int i=1;i<N;i++){
+        double P = 1;
+        for(int j=0;j<i;j++)
+            P = P * (s+j) / (j+1);
+        y = y + P*FDT[i][N-i-1];
+    }
+    printf("bring x = %.2f by Backward Difference Table then y = %f\n",x,y);
+}
+
+void NewtonForward(double x){
+    int pos = N/2;
+    double s = (x-X[pos]) / abs( (X[1]-X[0]) ) -1;
+    double y = FDT[0][pos];
+    for(int i=1;pos>0 || i<N;i++){
+        double P = 1;
+        if(i%2 ==0)
+            pos--;
+        else
+            s++;
+        for(int j=0;j<i;j++)
+            P = P * (s-j) / (j+1);
+        y = y + P*FDT[i][pos];
+    }
+    printf("bring x = %.2f by Newton Forward then y = %f\n",x,y);
 }
 
 int main()
 {
-    double x = -2.7;
+    double x = -3.7;
     Interpolation(x);
     printf("\n");
 
-    for(double i=-3;i<3;i+=0.1)
+    for(double i=8;i<10;i+=0.1)
         LagramgeMethod(i);
     printf("\n");
 
@@ -83,8 +111,16 @@ int main()
     DivideDifference(x);
     printf("\n");
 
-     x = -0.8;
-    DifferenceTable(x);
+    for(double i=8;i<10;i+=0.1)
+        ForwardDifferenceTable(i);
+    printf("\n");
+
+    for(double i=8;i<10;i+=0.1)
+        BackwardDifferenceTable(i);
+    printf("\n");
+
+    for(double i=8;i<10;i+=0.1)
+        NewtonForward(i);
     printf("\n");
     return 0;
 }
