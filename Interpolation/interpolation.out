@@ -1,0 +1,91 @@
+bring x = -3.70 by Interpolation then y = -47.953000
+
+bring x = 8.000000 by Lagramge then y = 206.889968
+bring x = 8.100000 by Lagramge then y = 211.879990
+bring x = 8.200000 by Lagramge then y = 216.929934
+bring x = 8.300000 by Lagramge then y = 222.039996
+bring x = 8.400000 by Lagramge then y = 227.209949
+bring x = 8.500000 by Lagramge then y = 232.440015
+bring x = 8.600000 by Lagramge then y = 237.729975
+bring x = 8.700000 by Lagramge then y = 243.079979
+bring x = 8.800000 by Lagramge then y = 248.489912
+bring x = 8.900000 by Lagramge then y = 253.959906
+bring x = 9.000000 by Lagramge then y = 259.489927
+bring x = 9.100000 by Lagramge then y = 265.079969
+bring x = 9.200000 by Lagramge then y = 270.730005
+bring x = 9.300000 by Lagramge then y = 276.439947
+bring x = 9.400000 by Lagramge then y = 282.209976
+bring x = 9.500000 by Lagramge then y = 288.039997
+bring x = 9.600000 by Lagramge then y = 293.929680
+bring x = 9.700000 by Lagramge then y = 299.879692
+bring x = 9.800000 by Lagramge then y = 305.889923
+bring x = 9.900000 by Lagramge then y = 311.959793
+bring x = 10.000000 by Lagramge then y = 318.089996
+
+bring x = 2.400000 by Divide Difference y = 23.210000
+
+bring x = 8.000000 by Forward Difference Table then y = 206.889989
+bring x = 8.100000 by Forward Difference Table then y = 211.879988
+bring x = 8.200000 by Forward Difference Table then y = 216.929986
+bring x = 8.300000 by Forward Difference Table then y = 222.039985
+bring x = 8.400000 by Forward Difference Table then y = 227.209984
+bring x = 8.500000 by Forward Difference Table then y = 232.439982
+bring x = 8.600000 by Forward Difference Table then y = 237.729980
+bring x = 8.700000 by Forward Difference Table then y = 243.079979
+bring x = 8.800000 by Forward Difference Table then y = 248.489977
+bring x = 8.900000 by Forward Difference Table then y = 253.959974
+bring x = 9.000000 by Forward Difference Table then y = 259.489972
+bring x = 9.100000 by Forward Difference Table then y = 265.079970
+bring x = 9.200000 by Forward Difference Table then y = 270.729967
+bring x = 9.300000 by Forward Difference Table then y = 276.439964
+bring x = 9.400000 by Forward Difference Table then y = 282.209961
+bring x = 9.500000 by Forward Difference Table then y = 288.039958
+bring x = 9.600000 by Forward Difference Table then y = 293.929955
+bring x = 9.700000 by Forward Difference Table then y = 299.879951
+bring x = 9.800000 by Forward Difference Table then y = 305.889947
+bring x = 9.900000 by Forward Difference Table then y = 311.959943
+bring x = 10.000000 by Forward Difference Table then y = 318.089938
+
+bring x = 8.000000 by Backward Difference Table then y = 206.889989
+bring x = 8.100000 by Backward Difference Table then y = 211.879988
+bring x = 8.200000 by Backward Difference Table then y = 216.929986
+bring x = 8.300000 by Backward Difference Table then y = 222.039985
+bring x = 8.400000 by Backward Difference Table then y = 227.209984
+bring x = 8.500000 by Backward Difference Table then y = 232.439982
+bring x = 8.600000 by Backward Difference Table then y = 237.729980
+bring x = 8.700000 by Backward Difference Table then y = 243.079979
+bring x = 8.800000 by Backward Difference Table then y = 248.489977
+bring x = 8.900000 by Backward Difference Table then y = 253.959974
+bring x = 9.000000 by Backward Difference Table then y = 259.489972
+bring x = 9.100000 by Backward Difference Table then y = 265.079970
+bring x = 9.200000 by Backward Difference Table then y = 270.729967
+bring x = 9.300000 by Backward Difference Table then y = 276.439964
+bring x = 9.400000 by Backward Difference Table then y = 282.209961
+bring x = 9.500000 by Backward Difference Table then y = 288.039958
+bring x = 9.600000 by Backward Difference Table then y = 293.929955
+bring x = 9.700000 by Backward Difference Table then y = 299.879951
+bring x = 9.800000 by Backward Difference Table then y = 305.889947
+bring x = 9.900000 by Backward Difference Table then y = 311.959943
+bring x = 10.000000 by Backward Difference Table then y = 318.089938
+
+bring x = 8.000000 by Newton Forward then y = 206.889999
+bring x = 8.100000 by Newton Forward then y = 211.879999
+bring x = 8.200000 by Newton Forward then y = 216.929999
+bring x = 8.300000 by Newton Forward then y = 222.039999
+bring x = 8.400000 by Newton Forward then y = 227.209999
+bring x = 8.500000 by Newton Forward then y = 232.439999
+bring x = 8.600000 by Newton Forward then y = 237.729999
+bring x = 8.700000 by Newton Forward then y = 243.079999
+bring x = 8.800000 by Newton Forward then y = 248.489999
+bring x = 8.900000 by Newton Forward then y = 253.959999
+bring x = 9.000000 by Newton Forward then y = 259.489999
+bring x = 9.100000 by Newton Forward then y = 265.079999
+bring x = 9.200000 by Newton Forward then y = 270.729999
+bring x = 9.300000 by Newton Forward then y = 276.439999
+bring x = 9.400000 by Newton Forward then y = 282.209998
+bring x = 9.500000 by Newton Forward then y = 288.039998
+bring x = 9.600000 by Newton Forward then y = 293.929998
+bring x = 9.700000 by Newton Forward then y = 299.879998
+bring x = 9.800000 by Newton Forward then y = 305.889998
+bring x = 9.900000 by Newton Forward then y = 311.959998
+bring x = 10.000000 by Newton Forward then y = 318.089998
