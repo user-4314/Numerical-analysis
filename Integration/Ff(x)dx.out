@@ -1,0 +1,21 @@
+using Trapezoidal Rule
+when n =       10 ,using Trapezoidal Rule answer is 3.1399259889071587
+when n =      100 ,using Trapezoidal Rule answer is 3.1415759869231290
+when n =     1000 ,using Trapezoidal Rule answer is 3.1415924869231246
+when n =    10000 ,using Trapezoidal Rule answer is 3.1415926519231401
+when n =   100000 ,using Trapezoidal Rule answer is 3.1415926535731526
+when n =  1000000 ,using Trapezoidal Rule answer is 3.1415926535897927
+when n = 10000000 ,using Trapezoidal Rule answer is 3.1415926535899872
+                                      the real PI = 3.1415926535897931
+using Simpson 1/3 Rule
+when n =       10 ,using Simpson 1/3 Rule answer is 3.1415926139392147
+when n =      100 ,using Simpson 1/3 Rule answer is 3.1415926535897545
+when n =     1000 ,using Simpson 1/3 Rule answer is 3.1415926535897913
+when n =    10000 ,using Simpson 1/3 Rule answer is 3.1415926535898069
+                                      the real PI = 3.1415926535897931
+using Simpson 3/8 Rule
+when n =        3 ,using Simpson 3/8 Rule answer is 3.1384615384615380
+when n =       30 ,using Simpson 3/8 Rule answer is 3.1415926533448508
+when n =      300 ,using Simpson 3/8 Rule answer is 3.1415926535897940
+when n =     3000 ,using Simpson 3/8 Rule answer is 3.1415926535897940
+                                      the real PI = 3.1415926535897931
